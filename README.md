@@ -12,10 +12,11 @@ This library provides implementation of Stochastic Mirror Descent (SMD) algorith
 
 If you found this library useful in your research, please consider citing
 
-
+```
 @article{azizan2019stochastic,
   title={Stochastic Mirror Descent on Overparameterized Nonlinear Models: Convergence, Implicit Regularization, and Generalization},
   author={Azizan, Navid and Lale, Sahin and Hassibi, Babak},
   journal={arXiv preprint arXiv:1906.03830},
   year={2019}
 }
+```
