@@ -5,7 +5,7 @@ This library provides implementation of Stochastic Mirror Descent (SMD) algorith
 
 ## References 
 
-[1] Azizan, Navid, Sahin Lale, and Babak Hassibi. "Stochastic Mirror Descent on Overparameterized Nonlinear Models: Convergence, Implicit Regularization, and Generalization." (2019) [arXiv] (https://arxiv.org/abs/1906.03830) 
+[1] Azizan, Navid, Sahin Lale, and Babak Hassibi. "Stochastic Mirror Descent on Overparameterized Nonlinear Models: Convergence, Implicit Regularization, and Generalization." (2019) [[arXiv]](https://arxiv.org/abs/1906.03830) 
 
 
 ## Citation
